@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Sashwat 👋
 
-<!--
-**sashwatpuri/sashwatpuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Undergraduate at NIIT University  
+💻 Aspiring Software Engineer with a strong interest in AI/ML  
+🏆 Hackathon participant & project-based learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working On
+- Learning Machine Learning fundamentals
+- AI + IoT based Aquaculture Research
+- Strengthening DSA and core CS concepts
+- Building small, complete, end-to-end projects
+
+---
+
+## 🛠 Tools & Technologies
+- Languages: Python, C++
+- Version Control: Git & GitHub
+- Libraries & Frameworks: OpenCV, Tkinter
+- Domains: Basic Machine Learning
+- Core CS: DSA, OOP, DBMS (basics)
+
+---
+
+## 📫 Reach Me
+- LinkedIn: https://www.linkedin.com/in/sashwat-puri-sachdev-077038211
+- Email: mailto:sashwatpuri@gmail.com
