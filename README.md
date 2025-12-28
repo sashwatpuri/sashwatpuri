@@ -24,5 +24,5 @@
 ---
 
 ## 📫 Reach Me
-- LinkedIn: https://www.linkedin.com/in/sashwat-puri-sachdev-077038211
+- LinkedIn: https://www.linkedin.com/in/sashwat-puri-sachdev
 - Email: mailto:sashwatpuri@gmail.com
